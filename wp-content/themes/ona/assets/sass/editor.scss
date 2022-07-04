@@ -1,0 +1,59 @@
+// Base
+@import "base/_mixins.scss";
+
+/*--------------------------------------------------------------
+# Helper Classes
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Post
+--------------------------------------------------------------*/
+.wp-block-post-featured-image img {
+  object-fit: cover;
+}
+
+/*--------------------------------------------------------------
+# Fonts
+--------------------------------------------------------------*/
+.is-style-ona-alt-font {
+  font-family: var(--wp--preset--font-family--alt);
+}
+
+
+/*--------------------------------------------------------------
+# Block custom styles
+--------------------------------------------------------------*/
+@include bp-sm-up {
+
+  div.is-style-ona-negative-offset-bottom {
+    margin-bottom: -100px;
+  }
+
+  div.is-style-ona-negative-offset-right {
+    margin-right: -100px;
+    z-index: 1;
+  }
+
+  div.is-style-ona-negative-offset-left {
+    margin-left: -100px;
+    z-index: 1;
+  }
+
+  div.is-style-ona-shift-right {
+    margin-right: -100px;    
+    margin-left: 100px;
+    z-index: 1;
+  }
+
+  div.is-style-ona-shift-left {
+    margin-left: -100px;    
+    margin-right: 100px;
+    z-index: 1;
+  }
+}
+
+.is-style-ona-stroke-frame > span {
+  margin: 1.5rem;
+  border: 1px solid #fff;
+  background-color: transparent!important;
+}

@@ -1,0 +1,218 @@
+# Translation of Themes - Blossom eCommerce in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Blossom eCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-12 04:48:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Blossom eCommerce\n"
+
+#. Description of the theme
+msgid "Blossom eCommerce is a clean, fast and feature-rich free WordPress theme to create an online shop. This theme is compatible with WooCommerce to help you build all kinds of online stores such as fashion, cosmetics, jewelry, furniture, accessories, lifestyle, decoration, gadgets, books, home appliances, clothes, automobiles, movies, and so on. The theme includes multiple sections to easily display your products and information about your store. You can easily change the look and feel of your website using unlimited colors and 1000+ Google fonts with a single click. The theme is mobile friendly, SEO Optimized, Schema friendly and loads fast to provide a smooth experience to your visitor. Check theme details at https://blossomthemes.com/wordpress-themes/blossom-ecommerce, demo at https://blossomthemes.com/theme-demo/?theme=blossom-ecommerce, read the documentation at https://docs.blossomthemes.com/blossom-ecommerce, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Blossom eCommerce es un tema para WordPress gratuito, limpio, rápido y con muchas características para crear una tienda online. Este tema es compatible con WooCommerce para ayudarte a construir todo tipo de tiendas online de moda, cosmética, joyería, muebles, accesorios, estilo de vida, decoración, gadgets, libros, electrodomésticos, ropa, automóviles, películas, etc. El tema incluye múltiples secciones para mostrar fácilmente tus productos e información sobre tu tienda. Puedes cambiar fácilmente el aspecto de tu web utilizando colores ilimitados y más de 1000 fuentes de Google con un solo clic. El tema es amigable con móviles, optimizado para SEO, amigable con Schema y carga rápidamente para proporcionar una experiencia fluida a tus visitantes. Consulta los detalles del tema en https://blossomthemes.com/wordpress-themes/blossom-ecommerce, la demostración en https://blossomthemes.com/theme-demo/?theme=blossom-ecommerce, lee la documentación en https://docs.blossomthemes.com/blossom-ecommerce y obtén soporte en https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Blossom eCommerce"
+msgstr "Blossom eCommerce"
+
+#: sections/popular.php:56
+msgid "Sold Out"
+msgstr "Agotado"
+
+#: sections/banner.php:16
+msgid "Purchase"
+msgstr "Comprar"
+
+#: sections/banner.php:15
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Encuentra grandes vacaciones de aventura y actividades alrededor del planeta."
+
+#: sections/banner.php:14
+msgid "Find Your Best Holiday"
+msgstr "Encuentra tus mejores vacaciones"
+
+#: sections/banner.php:13
+msgid "SHOP NEW ARRIVALS"
+msgstr "NOVEDADES DE LA TIENDA"
+
+#: functions.php:611
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:610
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:583
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: functions.php:583
+msgid " Powered by %s. "
+msgstr " Funciona con %s. "
+
+#: functions.php:581
+msgid " Blossom eCommerce | Developed By "
+msgstr " Blossom eCommerce | Desarrollado por "
+
+#: functions.php:500
+msgid " Views"
+msgstr " visitas"
+
+#: functions.php:498
+msgid " View"
+msgstr " visita"
+
+#: functions.php:496
+msgid "0 View"
+msgstr "0 visitas"
+
+#: functions.php:411 functions.php:430
+msgid "%1$sClick here%2$s to configure header layout settings"
+msgstr "%1$sHaz clic aquí%2$s para configurar los ajustes del diseño de la cabecera"
+
+#: functions.php:390
+msgid "Banner Link"
+msgstr "Enlace del banner"
+
+#: functions.php:371
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: functions.php:348
+msgid "Popular Section View all Products button label"
+msgstr "Etiqueta del botón «Ver todos los productos» de la sección «Popular»"
+
+#: functions.php:347
+msgid "Button Label"
+msgstr "Etiqueta del botón"
+
+#: functions.php:327
+msgid "Ratings"
+msgstr "Valoraciones"
+
+#: functions.php:326
+msgid "Views"
+msgstr "Visitas"
+
+#: functions.php:324
+msgid "Filter popular products according to views or ratings."
+msgstr "Filtra los productos populares según sus visualizaciones o valoraciones."
+
+#: functions.php:323
+msgid "Popular product content filter"
+msgstr "Filtro del contenido de productos populares"
+
+#: functions.php:298
+msgid "Section Content"
+msgstr "Contenido de la sección"
+
+#: functions.php:274
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: functions.php:256
+msgid "Enable to show popular section area section in home page."
+msgstr "Actívalo para mostrar el área de la sección «Popular» en la página de inicio."
+
+#: functions.php:255
+msgid "Enable Popular Area"
+msgstr "Activar el área «Popular»"
+
+#: functions.php:234
+msgid "Popular Section"
+msgstr "Sección «Popular»"
+
+#: functions.php:221
+msgid "Secondary font of the site."
+msgstr "Fuente secundaria del sitio."
+
+#: functions.php:220
+msgid "Secondary Font"
+msgstr "Fuente secundaria"
+
+#: functions.php:199
+msgid "Primary font of the site."
+msgstr "Fuente principal del sitio."
+
+#: functions.php:198
+msgid "Primary Font"
+msgstr "Fuente principal"
+
+#: functions.php:178
+msgid "Secondary color of the theme."
+msgstr "Color secundario del tema."
+
+#: functions.php:177
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: functions.php:156
+msgid "Primary color of the theme."
+msgstr "Color principal del tema."
+
+#: functions.php:155
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: functions.php:132
+msgid "Choose the header page layout for your site."
+msgstr "Elige el diseño de la cabecera de la página para tu sitio."
+
+#: functions.php:110 functions.php:131
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: functions.php:99
+msgid "Banner as Slider"
+msgstr "Banner como carrusel"
+
+#: functions.php:98
+msgid "Static/Video CTA Banner"
+msgstr "Banner estático o en vídeo de llamada a la acción"
+
+#: functions.php:97
+msgid "Disable Banner Section"
+msgstr "Desactivar la sección del banner"
+
+#: functions.php:94
+msgid "Choose banner as static image/video or as a slider."
+msgstr "Elige el banner como imagen estática/vídeo o como carrusel."
+
+#: functions.php:93
+msgid "Banner Options"
+msgstr "Opciones del banner "
+
+#: functions.php:67
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Enlace a la documentación: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:65
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Enlace a la demostración: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:52
+msgid "Demo & Documentation"
+msgstr "Demostración y documentación"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:582
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/wordpress-themes/blossom-ecommerce/"
+msgstr "https://blossomthemes.com/wordpress-themes/blossom-ecommerce/"

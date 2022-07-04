@@ -1,0 +1,787 @@
+# Translation of Themes - Ona in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Ona package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-12 13:29:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Ona\n"
+
+#. Theme Name of the theme
+#: inc/admin/theme-admin.php:20 inc/admin/theme-admin.php:79
+#: inc/admin/theme-admin.php:277
+#, gp-priority: high
+msgid "Ona"
+msgstr "Ona"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Ona is a Full Site Editing WordPress theme based on the minimal design style. It comes with various pre-defined block patterns. It's easy to customize colors and fonts via global options. This theme is perfect for fast optimized websites that has instant impact On Core Web Vitals performance. You must have the Gutenberg plugin active (version 11.7 or newer) to use Ona before WordPress 5.9 is released. Demo: https://ona.deothemes.com/"
+msgstr "Ona es un tema de WordPress con edición de sitio completo basado en el estilo de diseño minimalista. Viene con varios patrones de bloques predefinidos. Es fácil personalizar los colores y las fuentes a través de las opciones globales. Este tema es perfecto para sitios web rápidos y optimizados que tienen un impacto instantáneo en el rendimiento de Core Web Vitals. Debes tener el plugin Gutenberg activo (versión 11.7 o más reciente) para utilizar Ona antes de que se publique WordPress 5.9. Demo: https://ona.deothemes.com/"
+
+#: inc/patterns/general-promo-boxes-minimal.php:6
+msgid "Promo boxes creative"
+msgstr "Cajas promocionales creativas"
+
+#: inc/patterns/general-promo-section-offset.php:6
+msgid "Promo section offset"
+msgstr "Desplazamiento de la sección de promoción"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Centered Logo"
+msgstr "Logotipo centrado en la cabecera"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Transparent"
+msgstr "Cabecera transparente"
+
+#: inc/admin/theme-admin.php:105
+msgid " Demos"
+msgstr " Demos"
+
+#: inc/patterns/general-gallery-5-columns.php:15
+msgid "Check my latest photos"
+msgstr "Consulta mis últimas fotos"
+
+#: inc/patterns/general-latest-youtube-video.php:13
+msgid "Discover my latest video"
+msgstr "Descubre mi último vídeo"
+
+#: inc/patterns/general-testimonials.php:42
+msgid "Every detail has been taken care these team are really amazing and talented! I will work only to help your sales goals."
+msgstr "Cada detalle ha sido cuidado, este equipo es realmente increíble y con talento. Trabajaré sólo para ayudar a tus objetivos de ventas."
+
+#: inc/patterns/general-testimonials.php:62
+msgid "Every detail has been taken care these team are realy amazing and talented! I will work only to help your sales goals."
+msgstr "Cada detalle ha sido cuidado, este equipo es realmente increíble y con talento. Trabajaré sólo para ayudar a tus objetivos de ventas."
+
+#: inc/patterns/general-promo-boxes-minimal.php:20
+msgid "GET IN TOUCH"
+msgstr "PONTE EN CONTACTO"
+
+#: inc/patterns/forms-newsletter-book.php:30
+msgid "Grab my free guide on how to cook fresh and healthy meals"
+msgstr "Consigue mi guía gratuita sobre cómo cocinar comidas frescas y saludables"
+
+#: inc/patterns/header-creative.php:6
+msgid "Header creative"
+msgstr "Cabecera creativa"
+
+#: inc/patterns/header-minimal.php:6
+msgid "Header minimal"
+msgstr "Cabecera mínima"
+
+#: inc/patterns/forms-newsletter-book.php:34
+msgid "I share my best vegan recipes. Sed do eiusmod tempor incididu nt ut labore et dolore minim veniam, quism."
+msgstr "Comparto mis mejores recetas veganas. Sed do eiusmod tempor incididu nt ut labore et dolore minim veniam, quism."
+
+#: inc/patterns/forms-newsletter-book.php:26
+msgid "LEARN MY BEST RECIPES FOR FREE"
+msgstr "APRENDE GRATIS MIS MEJORES RECETAS"
+
+#: inc/block-styles.php:19 inc/patterns/forms-newsletter.php:6
+msgid "Newsletter"
+msgstr "Boletín"
+
+#: inc/patterns/general-latest-youtube-video.php:17
+msgid "When your life appears so out of balance, ordinary comfort diminishes completely. Anxiety, stress and often depression feel more compelling to us."
+msgstr "Cuando tu vida parece tan desequilibrada, el confort ordinario disminuye por completo. La ansiedad, el estrés y, a menudo, la depresión nos resultan más convincentes."
+
+#: inc/patterns/footer-creative.php:41
+msgid "© 2022 Ona — Made by ona"
+msgstr "© 2022 Ona - Hecho por ona"
+
+#: inc/patterns/footer-minimal.php:66
+msgid "© 2022 Ona, Made by "
+msgstr "2022 Ona, Hecho por "
+
+#: inc/patterns/general-testimonials.php:46
+msgid "— Camille Alforque"
+msgstr "- Camila Alforque"
+
+#: inc/patterns/general-testimonials.php:66
+msgid "— Xyjan Ragpa"
+msgstr "- Xyjan Ragpa"
+
+#: inc/patterns/general-testimonials.php:26
+msgid "— Xyrel Paterson"
+msgstr "- Xyrel Paterson"
+
+#: inc/admin/theme-admin.php:51
+msgid "Main"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr "Cabecera y pie sólo"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Without Title"
+msgstr "Página sin título"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "En blanco"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito Sans"
+msgstr "Nunito Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Gilda Display"
+msgstr "Gilda Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Fuentes del sistema"
+
+#: inc/patterns/footer-creative.php:22 inc/patterns/footer-minimal.php:26
+#: inc/patterns/header-centered-logo.php:41 inc/patterns/header-default.php:30
+msgid "Contact"
+msgstr "Contacto"
+
+#: inc/patterns/footer-creative.php:20 inc/patterns/footer-minimal.php:24
+#: inc/patterns/header-centered-logo.php:39 inc/patterns/header-default.php:28
+msgid "About"
+msgstr "Acerca de"
+
+#: inc/patterns/header-centered-logo.php:38
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/patterns/header-centered-logo.php:35 inc/patterns/header-default.php:25
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: inc/patterns/header-centered-logo.php:33 inc/patterns/header-default.php:23
+msgid "Archive"
+msgstr "Archivo"
+
+#: inc/patterns/header-centered-logo.php:32 inc/patterns/header-default.php:22
+msgid "News"
+msgstr "Noticias"
+
+#: inc/patterns/footer-creative.php:18 inc/patterns/footer-minimal.php:22
+#: inc/patterns/header-centered-logo.php:30 inc/patterns/header-default.php:20
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/admin/theme-admin.php:65
+msgid "Creative"
+msgstr "Creativo"
+
+#: functions.php:187
+msgid "Finished"
+msgstr "Finalizado"
+
+#: functions.php:186
+msgid "Processing"
+msgstr "Procesando"
+
+#: inc/patterns/footer-default.php:38
+msgid "© 2022 Ona — Made by DeoThemes"
+msgstr "© 2022 Ona — Hecho por DeoThemes"
+
+#: inc/patterns/posts-grid-3-columns.php:6
+msgid "Posts grid 3 columns"
+msgstr "Cuadrícula de entradas con 3 columnas"
+
+#: inc/admin/theme-admin.php:119 inc/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/admin/theme-admin.php:288
+msgid "Setup Instructions"
+msgstr "Instrucciones de instalación"
+
+#: inc/admin/theme-admin.php:282
+msgid "Run the Setup Wizard to configure your new theme and begin customizing your site."
+msgstr "Ejecuta el asistente de instalación para configurar tu nuevo tema y empezar a personalizar tu sitio."
+
+#: inc/admin/theme-admin.php:284
+msgid "Follow the steps to configure your new theme and begin customizing your site."
+msgstr "Sigue los pasos para configurar tu nuevo tema y empezar a personalizar tu sitio. "
+
+#: inc/admin/theme-admin.php:280
+msgid "Thank you for choosing Ona!"
+msgstr "¡Gracias por elegir Ona!"
+
+#: inc/admin/theme-admin.php:121 inc/merlin/merlin-config.php:46
+msgid "Import"
+msgstr "Importar "
+
+#: inc/admin/theme-admin.php:117 inc/class-tgm-plugin-activation.php:2867
+#: inc/merlin/merlin-config.php:43 inc/merlin/merlin-config.php:44
+#: inc/merlin/merlin-config.php:45
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/admin/theme-admin.php:58
+msgid "Minimal"
+msgstr "Minimalista"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: inc/merlin/class-merlin.php:1425
+msgid "Activating"
+msgstr "Activando"
+
+#: inc/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "Activo"
+
+#: inc/merlin/class-merlin.php:1753
+msgid "After import setup"
+msgstr "Después de la configuración de importación"
+
+#: inc/merlin/class-merlin.php:1754
+msgid "After import setup."
+msgstr "Después de la configuración de importación."
+
+#: inc/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/merlin/merlin-config.php:42
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/merlin/class-merlin.php:693 inc/merlin/class-merlin.php:1688
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/merlin/class-merlin.php:1689
+msgid "Demo content data."
+msgstr "Datos de contenido de demostración."
+
+#: inc/merlin/merlin-config.php:37
+msgid "Disable this wizard"
+msgstr "Deshabilitar este asistente"
+
+#: functions.php:83 inc/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: inc/merlin/merlin-config.php:79
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/merlin/class-merlin.php:1578
+msgid "Error"
+msgstr "Error"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/merlin/class-merlin.php:1514
+msgid "Invalid content!"
+msgstr "¡Contenido no válido!"
+
+#: inc/merlin/class-merlin.php:1597
+msgid "Invalid data!"
+msgstr "¡Datos no válidos!"
+
+#: inc/merlin/merlin-config.php:58
+msgid "Learn about child themes"
+msgstr "Aprender acerca de los temas hijo"
+
+#: inc/merlin/merlin-config.php:56
+msgid "Let's build & activate a child theme so you may easily make theme changes."
+msgstr "Creemos y activemos un tema hijo para que puedas realizar fácilmente cambios en el tema."
+
+#. translators: 1: plugin name.
+#: functions.php:81 inc/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de %s. Por favor, actualiza el plugin."
+
+#: inc/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "Actualización obligatoria no disponible"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:144
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "En este tema no existe la barra lateral (moviendo widget a Inactivo)"
+
+#: functions.php:76 inc/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#: inc/merlin/class-merlin.php:409
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr "Algo salió mal. Por favor, ¡actualiza la página e inténtalo de nuevo!"
+
+#: inc/merlin/merlin-config.php:41
+msgid "Start"
+msgstr "Inicio"
+
+#: inc/merlin/class-merlin.php:1486 inc/merlin/class-merlin.php:1692
+#: inc/merlin/class-merlin.php:1705 inc/merlin/class-merlin.php:1718
+#: inc/merlin/class-merlin.php:1731 inc/merlin/class-merlin.php:1744
+#: inc/merlin/class-merlin.php:1757
+msgid "Success"
+msgstr "Correcto"
+
+#: inc/merlin/class-merlin.php:1845
+msgid "The Hello world post status was set to draft"
+msgstr "El estado de la entrada Hola mundo se cambió a borrador"
+
+#: inc/merlin/includes/class-merlin-downloader.php:49
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr "No se pudo guardar el archivo en el disco mientras intentaba descargarlo"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#: functions.php:79 inc/class-tgm-plugin-activation.php:401
+#: inc/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin obligatorio está actualmente desactivado: %1$s."
+msgstr[1] "Los siguientes plugins obligatorios están desactivados: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#: inc/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#: inc/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: inc/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+
+#: inc/merlin/merlin-config.php:32
+msgid "Theme Setup"
+msgstr "Configurar tema"
+
+#: inc/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "Actualizar"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> actualización disponible"
+msgstr[1] "<span class=\"count\">(%s)</span> actualizaciones disponibles"
+
+#: inc/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "Actualización obligatoria"
+
+#: inc/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/merlin/class-merlin.php:1441
+msgid "Updating"
+msgstr "Actualizando"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: functions.php:75 inc/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#: inc/merlin/class-merlin.php:671
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#. translators: Theme Name
+#: inc/merlin/merlin-config.php:49
+msgid "Welcome to %s"
+msgstr "Bienvenido a %s"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:198
+msgid "Widget already exists"
+msgstr "El widget ya existe"
+
+#: inc/merlin/merlin-config.php:55
+msgid "You're good to go!"
+msgstr "¡Todo listo para empezar!"
+
+#: inc/merlin/merlin-config.php:63
+msgid "You're up to speed!"
+msgstr "¡Estás al día!"
+
+#: inc/merlin/merlin-config.php:57
+msgid "Your child theme has already been installed and is now activated, if it wasn't already."
+msgstr "El tema hijo ya ha sido instalado y está ahora activado, si no lo estaba ya anteriormente."
+
+#: inc/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#: inc/class-tgm-plugin-activation.php:1243
+#: inc/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#: inc/patterns/page-about.php:58
+msgid "1,500+"
+msgstr "+1.500"
+
+#: inc/patterns/page-about.php:70
+msgid "700K"
+msgstr "700K"
+
+#: inc/patterns/page-about.php:46
+msgid "99"
+msgstr "99"
+
+#: inc/patterns/page-about.php:62
+msgid "Cups of coffee drank in courtrooms in 2021"
+msgstr "Tazas de café tomadas en juzgados en 2021"
+
+#: inc/patterns/page-contact.php:35
+msgid "Email: "
+msgstr "Correo electrónico: "
+
+#: inc/patterns/page-contact.php:19
+msgid "Feel free to contact me anytime."
+msgstr "No dudes en ponerte en contacto conmigo en cualquier momento."
+
+#: inc/patterns/page-about.php:50
+msgid "Houses sold in 2021 for my clients"
+msgstr "Casas de clientes vendidas en 2021"
+
+#: inc/patterns/general-promo-section-offset.php:15
+msgid "I Love working with people who find joy in the little things"
+msgstr "Me encanta trabajar con personas que encuentran la alegría en las pequeñas cosas"
+
+#: inc/patterns/page-contact.php:27
+msgid "Melbourne's GPO 350 Bourke St Melbourne VIC 3000 Australia"
+msgstr "Calle Ruiz de Alarcón 23 Madrid 28014 España"
+
+#: inc/patterns/page-about.php:6
+msgid "Page about"
+msgstr "Página Sobre nosotros"
+
+#: inc/patterns/page-contact.php:6
+msgid "Page contact"
+msgstr "Página de contacto"
+
+#: inc/patterns/page-contact.php:31
+msgid "Phone: +1-888-1554-456-123"
+msgstr "Teléfono: +34-000000000"
+
+#: inc/patterns/page-about.php:74
+msgid "Profits gained for my clients and money"
+msgstr "Ventajas para mis clientes y dinero"
+
+#: inc/patterns/page-about.php:23
+msgid "“To us, a healthy woman is confident in her own skin, flaws and all.”"
+msgstr "\"Para nosotros, una mujer sana está segura en su propia piel, con defectos y todo\""
+
+#: inc/merlin/merlin-config.php:66 inc/merlin/merlin-config.php:71
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: inc/admin/theme-admin.php:143
+msgid "Contact us"
+msgstr "Contacta con nosotros"
+
+#: inc/admin/theme-admin.php:146
+msgid "Follow us"
+msgstr "Síguenos"
+
+#: inc/admin/theme-admin.php:98
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/admin/theme-admin.php:85
+msgid "Made by "
+msgstr "Hecho por"
+
+#: inc/admin/theme-admin.php:19
+msgid "Ona Getting Started"
+msgstr "Cómo empezar con Ona"
+
+#: inc/admin/theme-admin.php:100
+msgid "Ona is now installed and ready to use. Get ready to build something beautiful. To get started check the links below. We hope you enjoy it! If you have any suggestion of how to improve this theme feel free to contact us."
+msgstr "Ona ya está instalado y listo para usar. Prepárate para construir algo hermoso. Para empezar, consulta los siguientes enlaces. ¡Esperamos que lo disfrutes! Si tienes alguna sugerencia para mejorar este tema, no dudes en ponerte en contacto con nosotros."
+
+#: inc/admin/theme-admin.php:140
+msgid "Rate us ★★★★★"
+msgstr "Valóranos ★★★★★"
+
+#: inc/admin/theme-admin.php:137
+msgid "Useful Links"
+msgstr "Enlaces útiles"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Light"
+msgstr "Fondo claro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Light"
+msgstr "Texto Claro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Lighter"
+msgstr "Texto más claro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Regular"
+msgstr "Texto normal"
+
+#: inc/patterns/footer-default.php:6
+msgid "Default footer"
+msgstr "Pie de página por defecto"
+
+#: inc/patterns/general-promo-boxes.php:21
+msgid "FASHION"
+msgstr "MODA"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Enorme"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediano"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium Large"
+msgstr "Medio grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Minúsculo"
+
+#: inc/patterns/header-centered-logo.php:6
+msgid "Header centered logo"
+msgstr "Logotipo centrado en la cabecera"
+
+#: inc/patterns/header-default.php:6
+msgid "Header default"
+msgstr "Cabecera por defecto"
+
+#: inc/patterns/general-hero-cover.php:12
+msgid "Hello, I'm Ona. And this is my personal travel journal"
+msgstr "Hola, soy Ona. Y este es mi diario de viajes personal"
+
+#: inc/patterns/general-hero-cover.php:6
+msgid "Hero Cover"
+msgstr "Portada Hero"
+
+#: inc/patterns/general-page-title-with-image.php:23
+msgid "I am a lifestyle and fashion blogger, a person who enjoys travel."
+msgstr "Soy una bloguera de estilo de vida y moda, una persona que disfruta viajando."
+
+#: inc/patterns/posts-grid-3-columns.php:15
+msgid "LATEST NEWS"
+msgstr "ÚLTIMAS NOTICIAS"
+
+#: inc/patterns/general-promo-boxes.php:35
+msgid "LIFESTYLE"
+msgstr "ESTILO DE VIDA"
+
+#: inc/patterns/general-promo-section.php:14
+msgid "My Travel Gear"
+msgstr "Mi equipo de viaje"
+
+#: inc/block-patterns.php:17
+msgid "Ona Footers"
+msgstr "Pies de página de Ona"
+
+#: inc/block-patterns.php:13
+msgid "Ona General"
+msgstr "Ona General"
+
+#: inc/block-patterns.php:21
+msgid "Ona Headers"
+msgstr "Cabeceras de Ona"
+
+#: inc/block-patterns.php:29
+msgid "Ona Pages"
+msgstr "Páginas de Ona"
+
+#: inc/patterns/general-page-title-with-image.php:6
+msgid "Page title with image"
+msgstr "Título de la página con imagen"
+
+#: inc/patterns/footer-creative.php:45 inc/patterns/footer-default.php:43
+#: inc/patterns/footer-minimal.php:72
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: inc/patterns/general-promo-boxes.php:6
+msgid "Promo Boxes"
+msgstr "Cajas de promoción"
+
+#: inc/patterns/general-promo-section.php:6
+msgid "Promo section"
+msgstr "Sección de promociones"
+
+#: inc/patterns/general-promo-boxes.php:63
+msgid "STORIES"
+msgstr "HISTORIAS"
+
+#: inc/patterns/general-promo-section.php:18
+msgid "Some blogs focus more on fashion advice, featuring how-to articles for the lay reader."
+msgstr "Algunos blogs se centran más en los consejos de moda, presentando artículos prácticos para el lector no especializado."
+
+#: inc/patterns/general-promo-section-offset.php:20
+#: inc/patterns/general-promo-section.php:22
+msgid "Some blogs focus more on fashion advice, featuring how-to articles for the lay reader. Articles discuss clothing fit, the matching and complementing of colors, and other information on clothes wearing and care along with prescriptive advice."
+msgstr "Algunos blogs se centran más en los consejos de moda, presentando artículos prácticos para el lector no especializado. Los artículos tratan sobre cómo queda la ropa, la combinación y el complemento de colores, y más cosas sobre el uso y el cuidado de la ropa, además de recomendaciones."
+
+#: inc/patterns/general-promo-boxes.php:49
+msgid "TRAVEL"
+msgstr "VIAJES"
+
+#: inc/patterns/footer-creative.php:47 inc/patterns/footer-minimal.php:74
+msgid "Terms \\u0026amp; Conditions"
+msgstr "Términos y condiciones"
+
+#: index.php:9
+msgid "This theme was built for the WordPress experimental full site editing feature. You need to install and activate the Gutenberg plugin to make it work. "
+msgstr "Este tema se ha creado para la funcionalidad experimental de edición completa del sitio de WordPress. Necesitas instalar y activar el plugin Gutenberg para que funcione."
+
+#: inc/block-patterns.php:25
+msgid "Ona Posts"
+msgstr "Entrada de Ona"
+
+#. Author of the theme
+#: inc/admin/theme-admin.php:86
+#, gp-priority: low
+msgid "DeoThemes"
+msgstr "DeoThemes"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://deothemes.com"
+msgstr "https://deothemes.com"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://deothemes.com/freebies/ona-full-site-editing-gutenberg-wordpress-theme/"
+msgstr "https://deothemes.com/freebies/ona-full-site-editing-gutenberg-wordpress-theme/"

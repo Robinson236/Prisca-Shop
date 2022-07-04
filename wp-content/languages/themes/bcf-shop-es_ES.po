@@ -1,0 +1,116 @@
+# Translation of Themes - BCF Shop in Spanish (Spain)
+# This file is distributed under the same license as the Themes - BCF Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-01 16:49:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - BCF Shop\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "BCF Shop is child theme of free ecommerce wordpress themes of business consultant finder. BCF Shop is that the best eCommerce WordPress Child theme for building on-line stores and on-line shop. The theme is absolutely Elementor, Gutenberg, WooCommerce , Google AMP, compatible, YITH WooCommerce wishlist and standard WordPress plugins. it's a extremely customizable theme – customise the theme simply with dozens of choices and make an excellent flexible website.it's a good WordPress theme to create a superb online store web site.  BCF Shop features a clean and fashionable style, integrate with the elective animated slideshows and eye-catching effects."
+msgstr "BCF Shop es un tema hijo del tema gratuito de comercio electrónico para WordPress Business Consultant Finder. BCF Shop es uno de los mejores temas hijo de comercio electrónico para WordPress para construir almacenes y tiendas online. Este tema es totalmente compatible con Elementor, Gutenberg, WooCommerce y Google AMP. También es compatible con YITH WooCommerce Wishlist y los plugins estándar para WordPress. Es un tema altamente personalizable: personaliza el tema de forma sencilla con docenas de opciones y haz una excelente y flexible web. Es un buen tema para WordPress para crear una increíble web de tienda online. BCF Shop cuenta con un estilo limpio y elegante, que se integra con presentaciones animadas y atractivos efectos opcionales."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "BCF Shop"
+msgstr "BCF Shop"
+
+#. translators: 1: Theme Developer 2: WordPress.
+#: functions.php:321
+msgid "%1$s By aThemeArt."
+msgstr "%1$s por aThemeArt."
+
+#. translators: 1: Current Year, 2: Blog Name
+#: functions.php:314
+msgid "Copyright &copy; %1$s %2$s All Right Reserved."
+msgstr "Copyright &copy; %1$s %2$s Todos los derechos reservados."
+
+#: woocommerce/result-count.php:64
+msgid "ALL:"
+msgstr "TODO:"
+
+#: woocommerce/result-count.php:60
+msgid "View:"
+msgstr "Ver:"
+
+#: woocommerce/single-product/add-to-cart/variation.php:22
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr "Lo siento, este producto no está disponible. Por favor, elige una combinación diferente."
+
+#: woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Clear"
+msgstr "Vaciar"
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr "Este producto actualmente no tiene existencias y no está disponible."
+
+#: woocommerce/single-product/rating.php:38
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s valoración de cliente"
+msgstr[1] "%s valoraciones de clientes"
+
+#: woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr "Productos relacionados"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr "Proceder al pago"
+
+#: woocommerce/cart/cart.php:143
+msgid "Update cart"
+msgstr "Actualizar el carrito"
+
+#: woocommerce/cart/cart.php:138
+msgid "Apply coupon"
+msgstr "Aplicar el cupón"
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr "Código del cupón"
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr "Cupón:"
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr "Disponible para reservar"
+
+#: woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr "Eliminar este artículo"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:120
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:102
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:76
+msgid "Product"
+msgstr "Producto"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.athemeart.com"
+msgstr "https://www.athemeart.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "aThemeArt"
+msgstr "aThemeArt"
